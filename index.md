@@ -47,7 +47,7 @@ Some of our current work includes:
 * Management of a contribution into an EU project on recyclable bio-composites
 * The construction of a tiny house with local sustainable materials
 * The development of a blockchain based system for the management of deep leasing
-
+* A <a href="radio.html">radio alarm clock</a> in HTML
 </section>
 
 <section id="contact" markdown="1">
